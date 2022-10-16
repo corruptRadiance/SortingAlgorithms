@@ -1,0 +1,15 @@
+C:\Dev Stuff\Sorting\bin\Debug\net6.0\Sorting.exe
+C:\Dev Stuff\Sorting\bin\Debug\net6.0\Sorting.deps.json
+C:\Dev Stuff\Sorting\bin\Debug\net6.0\Sorting.runtimeconfig.json
+C:\Dev Stuff\Sorting\bin\Debug\net6.0\Sorting.dll
+C:\Dev Stuff\Sorting\bin\Debug\net6.0\Sorting.pdb
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.csproj.AssemblyReference.cache
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfoInputs.cache
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfo.cs
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.dll
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\refint\Sorting.dll
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.pdb
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\Sorting.genruntimeconfig.cache
+C:\Dev Stuff\Sorting\obj\Debug\net6.0\ref\Sorting.dll
